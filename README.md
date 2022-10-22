@@ -17,6 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soapffz&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="soapffz" /></p>
 
-<br><br><br><br>
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/soapffz"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="soapffz" /></a></p><br><br>
