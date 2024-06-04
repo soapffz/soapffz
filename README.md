@@ -13,7 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">I'm soapffz</h1>
 
-- 📫 How to reach me: mailto：soapffz@icloud.com
+- 📫 How to reach me:<a href="mailto:soapffz@icloud.com">
+    soapffz@icloud.com
+</a>
 
 <p align="left">
 </p>
