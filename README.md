@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 - ⚡ Fun fact: ...
 --->
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
